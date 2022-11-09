@@ -1,5 +1,6 @@
 .odd {
     background-color: #f2b5b5;
+    /* need "" around DejaVu */
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
